@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 50919c4a71cf34611903374ba0a473e9
+timeCreated: 1524638174
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Anal_Canal
+    100004: Appendix
+    100006: Ascending_Colon
+    100008: Big_Intestine
+    100010: Bill_Duct
+    100012: Body
+    100014: Body_of_Pancreas
+    100016: Cardia
+    100018: Cecum
+    100020: Cervical_Esophagus
+    100022: Common_Hepatic_Duct
+    100024: Cystic_Duct
+    100026: Descending_Colon
+    100028: Duodenum
+    100030: Esophagus
+    100032: Falciform_Ligament
+    100034: Fundus
+    100036: Fundus 1
+    100038: Gallbladder
+    100040: Gallbladder 1
+    100042: Gland
+    100044: Greater_Curvature
+    100046: Head_of_Pancreas
+    100048: Ileum
+    100050: Jejunum
+    100052: Left_Hepatic_Duct
+    100054: Left_Lobe
+    100056: Left_Parotid_Gland
+    100058: Left_Submandibular_Gland
+    100060: Lesser_Curvature
+    100062: Liver
+    100064: Lower_Thoracic_Esophagus
+    100066: Middle_Thoracic_Esophagus
+    100068: Mouse
+    100070: Oropharynx
+    100072: Pancreas
+    100074: Pharynx
+    100076: Pyloric_Antrum
+    100078: Pyloric_Canal
+    100080: Rectum
+    100082: Right_Hepatic_Duct
+    100084: Right_Lobe
+    100086: Right_Parotid_Gland
+    100088: Right_Submandibular_Gland
+    100090: Sigmoid_Colon
+    100092: Small_Intestine
+    100094: Stomatch
+    100096: Tail_of_Pancreas
+    100098: Tongue
+    100100: Tranverse_Colon
+    100102: Upper_Thoracic_Esophagus
+    400000: //RootNode
+    400002: Anal_Canal
+    400004: Appendix
+    400006: Ascending_Colon
+    400008: Big_Intestine
+    400010: Bill_Duct
+    400012: Body
+    400014: Body_of_Pancreas
+    400016: Cardia
+    400018: Cecum
+    400020: Cervical_Esophagus
+    400022: Common_Hepatic_Duct
+    400024: Cystic_Duct
+    400026: Descending_Colon
+    400028: Duodenum
+    400030: Esophagus
+    400032: Falciform_Ligament
+    400034: Fundus
+    400036: Fundus 1
+    400038: Gallbladder
+    400040: Gallbladder 1
+    400042: Gland
+    400044: Greater_Curvature
+    400046: Head_of_Pancreas
+    400048: Ileum
+    400050: Jejunum
+    400052: Left_Hepatic_Duct
+    400054: Left_Lobe
+    400056: Left_Parotid_Gland
+    400058: Left_Submandibular_Gland
+    400060: Lesser_Curvature
+    400062: Liver
+    400064: Lower_Thoracic_Esophagus
+    400066: Middle_Thoracic_Esophagus
+    400068: Mouse
+    400070: Oropharynx
+    400072: Pancreas
+    400074: Pharynx
+    400076: Pyloric_Antrum
+    400078: Pyloric_Canal
+    400080: Rectum
+    400082: Right_Hepatic_Duct
+    400084: Right_Lobe
+    400086: Right_Parotid_Gland
+    400088: Right_Submandibular_Gland
+    400090: Sigmoid_Colon
+    400092: Small_Intestine
+    400094: Stomatch
+    400096: Tail_of_Pancreas
+    400098: Tongue
+    400100: Tranverse_Colon
+    400102: Upper_Thoracic_Esophagus
+    2100000: A_Digestive_System
+    2300000: Anal_Canal
+    2300002: Appendix
+    2300004: Ascending_Colon
+    2300006: Bill_Duct
+    2300008: Body
+    2300010: Body_of_Pancreas
+    2300012: Cardia
+    2300014: Cecum
+    2300016: Cervical_Esophagus
+    2300018: Common_Hepatic_Duct
+    2300020: Cystic_Duct
+    2300022: Descending_Colon
+    2300024: Duodenum
+    2300026: Falciform_Ligament
+    2300028: Fundus
+    2300030: Fundus 1
+    2300032: Gallbladder 1
+    2300034: Greater_Curvature
+    2300036: Head_of_Pancreas
+    2300038: Ileum
+    2300040: Jejunum
+    2300042: Left_Hepatic_Duct
+    2300044: Left_Lobe
+    2300046: Left_Parotid_Gland
+    2300048: Left_Submandibular_Gland
+    2300050: Lesser_Curvature
+    2300052: Lower_Thoracic_Esophagus
+    2300054: Middle_Thoracic_Esophagus
+    2300056: Mouse
+    2300058: Oropharynx
+    2300060: Pharynx
+    2300062: Pyloric_Antrum
+    2300064: Pyloric_Canal
+    2300066: Rectum
+    2300068: Right_Hepatic_Duct
+    2300070: Right_Lobe
+    2300072: Right_Parotid_Gland
+    2300074: Right_Submandibular_Gland
+    2300076: Sigmoid_Colon
+    2300078: Tail_of_Pancreas
+    2300080: Tongue
+    2300082: Tranverse_Colon
+    2300084: Upper_Thoracic_Esophagus
+    3300000: Anal_Canal
+    3300002: Appendix
+    3300004: Ascending_Colon
+    3300006: Bill_Duct
+    3300008: Body
+    3300010: Body_of_Pancreas
+    3300012: Cardia
+    3300014: Cecum
+    3300016: Cervical_Esophagus
+    3300018: Common_Hepatic_Duct
+    3300020: Cystic_Duct
+    3300022: Descending_Colon
+    3300024: Duodenum
+    3300026: Falciform_Ligament
+    3300028: Fundus
+    3300030: Fundus 1
+    3300032: Gallbladder 1
+    3300034: Greater_Curvature
+    3300036: Head_of_Pancreas
+    3300038: Ileum
+    3300040: Jejunum
+    3300042: Left_Hepatic_Duct
+    3300044: Left_Lobe
+    3300046: Left_Parotid_Gland
+    3300048: Left_Submandibular_Gland
+    3300050: Lesser_Curvature
+    3300052: Lower_Thoracic_Esophagus
+    3300054: Middle_Thoracic_Esophagus
+    3300056: Mouse
+    3300058: Oropharynx
+    3300060: Pharynx
+    3300062: Pyloric_Antrum
+    3300064: Pyloric_Canal
+    3300066: Rectum
+    3300068: Right_Hepatic_Duct
+    3300070: Right_Lobe
+    3300072: Right_Parotid_Gland
+    3300074: Right_Submandibular_Gland
+    3300076: Sigmoid_Colon
+    3300078: Tail_of_Pancreas
+    3300080: Tongue
+    3300082: Tranverse_Colon
+    3300084: Upper_Thoracic_Esophagus
+    4300000: Mouse
+    4300002: Tongue
+    4300004: Right_Parotid_Gland
+    4300006: Left_Parotid_Gland
+    4300008: Right_Submandibular_Gland
+    4300010: Left_Submandibular_Gland
+    4300012: Oropharynx
+    4300014: Pharynx
+    4300016: Cervical_Esophagus
+    4300018: Upper_Thoracic_Esophagus
+    4300020: Middle_Thoracic_Esophagus
+    4300022: Lower_Thoracic_Esophagus
+    4300024: Right_Lobe
+    4300026: Falciform_Ligament
+    4300028: Left_Lobe
+    4300030: Cardia
+    4300032: Fundus
+    4300034: Body
+    4300036: Lesser_Curvature
+    4300038: Greater_Curvature
+    4300040: Pyloric_Antrum
+    4300042: Pyloric_Canal
+    4300044: Bill_Duct
+    4300046: Common_Hepatic_Duct
+    4300048: Right_Hepatic_Duct
+    4300050: Left_Hepatic_Duct
+    4300052: Cystic_Duct
+    4300054: Gallbladder
+    4300056: Fundus
+    4300058: Head_of_Pancreas
+    4300060: Body_of_Pancreas
+    4300062: Tail_of_Pancreas
+    4300064: Duodenum
+    4300066: Jejunum
+    4300068: Ileum
+    4300070: Appendix
+    4300072: Cecum
+    4300074: Ascending_Colon
+    4300076: Tranverse_Colon
+    4300078: Descending_Colon
+    4300080: Sigmoid_Colon
+    4300082: Rectum
+    4300084: Anal_Canal
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

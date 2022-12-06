@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 2d33753f3a78a416f81ae1cfafb5d9ec
+timeCreated: 1524647051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Z_Female:Female_Skeletal_Cranium
+    100004: Z_Female:Female_Skeletal_Cranium 1
+    100006: Z_Female:Female_Skeletal_Mandible
+    100008: Z_Female:Female_Skeletal_Mandible 1
+    100010: Z_Female:Female_Skeletal_Teeth_Lower
+    100012: Z_Female:Female_Skeletal_Teeth_Upper
+    100014: Z_Female:Mandibular_Canine_L
+    100016: Z_Female:Mandibular_Canine_R
+    100018: Z_Female:Mandibular_Central_Incisor_L
+    100020: Z_Female:Mandibular_Central_Incisor_R
+    100022: Z_Female:Mandibular_First_Molar_L
+    100024: Z_Female:Mandibular_First_Molar_R
+    100026: Z_Female:Mandibular_First_Premolar_L
+    100028: Z_Female:Mandibular_First_Premolar_R
+    100030: Z_Female:Mandibular_Lateral_Incisor_L
+    100032: Z_Female:Mandibular_Lateral_Incisor_R
+    100034: Z_Female:Mandibular_Second_Molar_L
+    100036: Z_Female:Mandibular_Second_Molar_R
+    100038: Z_Female:Mandibular_Second_Premolar_L
+    100040: Z_Female:Mandibular_Second_Premolar_R
+    100042: Z_Female:Mandibular_Third_Molar_L
+    100044: Z_Female:Mandibular_Third_Molar_R
+    100046: Z_Female:Maxillary_Canine_L
+    100048: Z_Female:Maxillary_Canine_R
+    100050: Z_Female:Maxillary_Central_Incisor_L
+    100052: Z_Female:Maxillary_Central_Incisor_R
+    100054: Z_Female:Maxillary_First_Molar_L
+    100056: Z_Female:Maxillary_First_Molar_R
+    100058: Z_Female:Maxillary_First_Premolar_L
+    100060: Z_Female:Maxillary_First_Premolar_R
+    100062: Z_Female:Maxillary_Lateral_Incisor_L
+    100064: Z_Female:Maxillary_Lateral_Incisor_R
+    100066: Z_Female:Maxillary_Second_Molar_L
+    100068: Z_Female:Maxillary_Second_Molar_R
+    100070: Z_Female:Maxillary_Second_Premolar_L
+    100072: Z_Female:Maxillary_Second_Premolar_R
+    100074: Z_Female:Maxillary_Third_Molar_L
+    100076: Z_Female:Maxillary_Third_Molar_R
+    100078: Z_Female:polySurface1217
+    100080: Z_Female:polySurface1220
+    100082: Z_Female:polySurface1518
+    100084: Z_Female:Skeleton_Of_Head
+    100086: Z_Female:Third_Lumbar_Vertebra
+    400000: //RootNode
+    400002: Z_Female:Female_Skeletal_Cranium
+    400004: Z_Female:Female_Skeletal_Cranium 1
+    400006: Z_Female:Female_Skeletal_Mandible
+    400008: Z_Female:Female_Skeletal_Mandible 1
+    400010: Z_Female:Female_Skeletal_Teeth_Lower
+    400012: Z_Female:Female_Skeletal_Teeth_Upper
+    400014: Z_Female:Mandibular_Canine_L
+    400016: Z_Female:Mandibular_Canine_R
+    400018: Z_Female:Mandibular_Central_Incisor_L
+    400020: Z_Female:Mandibular_Central_Incisor_R
+    400022: Z_Female:Mandibular_First_Molar_L
+    400024: Z_Female:Mandibular_First_Molar_R
+    400026: Z_Female:Mandibular_First_Premolar_L
+    400028: Z_Female:Mandibular_First_Premolar_R
+    400030: Z_Female:Mandibular_Lateral_Incisor_L
+    400032: Z_Female:Mandibular_Lateral_Incisor_R
+    400034: Z_Female:Mandibular_Second_Molar_L
+    400036: Z_Female:Mandibular_Second_Molar_R
+    400038: Z_Female:Mandibular_Second_Premolar_L
+    400040: Z_Female:Mandibular_Second_Premolar_R
+    400042: Z_Female:Mandibular_Third_Molar_L
+    400044: Z_Female:Mandibular_Third_Molar_R
+    400046: Z_Female:Maxillary_Canine_L
+    400048: Z_Female:Maxillary_Canine_R
+    400050: Z_Female:Maxillary_Central_Incisor_L
+    400052: Z_Female:Maxillary_Central_Incisor_R
+    400054: Z_Female:Maxillary_First_Molar_L
+    400056: Z_Female:Maxillary_First_Molar_R
+    400058: Z_Female:Maxillary_First_Premolar_L
+    400060: Z_Female:Maxillary_First_Premolar_R
+    400062: Z_Female:Maxillary_Lateral_Incisor_L
+    400064: Z_Female:Maxillary_Lateral_Incisor_R
+    400066: Z_Female:Maxillary_Second_Molar_L
+    400068: Z_Female:Maxillary_Second_Molar_R
+    400070: Z_Female:Maxillary_Second_Premolar_L
+    400072: Z_Female:Maxillary_Second_Premolar_R
+    400074: Z_Female:Maxillary_Third_Molar_L
+    400076: Z_Female:Maxillary_Third_Molar_R
+    400078: Z_Female:polySurface1217
+    400080: Z_Female:polySurface1220
+    400082: Z_Female:polySurface1518
+    400084: Z_Female:Skeleton_Of_Head
+    400086: Z_Female:Third_Lumbar_Vertebra
+    2100000: Z_Female_Skeletal_Skeleton
+    2100002: phong12
+    2300000: Z_Female:Female_Skeletal_Mandible 1
+    2300002: Z_Female:Mandibular_Canine_L
+    2300004: Z_Female:Mandibular_Canine_R
+    2300006: Z_Female:Mandibular_Central_Incisor_L
+    2300008: Z_Female:Mandibular_Central_Incisor_R
+    2300010: Z_Female:Mandibular_First_Molar_L
+    2300012: Z_Female:Mandibular_First_Molar_R
+    2300014: Z_Female:Mandibular_First_Premolar_L
+    2300016: Z_Female:Mandibular_First_Premolar_R
+    2300018: Z_Female:Mandibular_Lateral_Incisor_L
+    2300020: Z_Female:Mandibular_Lateral_Incisor_R
+    2300022: Z_Female:Mandibular_Second_Molar_L
+    2300024: Z_Female:Mandibular_Second_Molar_R
+    2300026: Z_Female:Mandibular_Second_Premolar_L
+    2300028: Z_Female:Mandibular_Second_Premolar_R
+    2300030: Z_Female:Mandibular_Third_Molar_L
+    2300032: Z_Female:Mandibular_Third_Molar_R
+    2300034: Z_Female:Maxillary_Canine_L
+    2300036: Z_Female:Maxillary_Canine_R
+    2300038: Z_Female:Maxillary_Central_Incisor_L
+    2300040: Z_Female:Maxillary_Central_Incisor_R
+    2300042: Z_Female:Maxillary_First_Molar_L
+    2300044: Z_Female:Maxillary_First_Molar_R
+    2300046: Z_Female:Maxillary_First_Premolar_L
+    2300048: Z_Female:Maxillary_First_Premolar_R
+    2300050: Z_Female:Maxillary_Lateral_Incisor_L
+    2300052: Z_Female:Maxillary_Lateral_Incisor_R
+    2300054: Z_Female:Maxillary_Second_Molar_L
+    2300056: Z_Female:Maxillary_Second_Molar_R
+    2300058: Z_Female:Maxillary_Second_Premolar_L
+    2300060: Z_Female:Maxillary_Second_Premolar_R
+    2300062: Z_Female:Maxillary_Third_Molar_L
+    2300064: Z_Female:Maxillary_Third_Molar_R
+    2300066: Z_Female:polySurface1518
+    2300068: Z_Female:Third_Lumbar_Vertebra
+    3300000: Z_Female:Female_Skeletal_Mandible 1
+    3300002: Z_Female:Mandibular_Canine_L
+    3300004: Z_Female:Mandibular_Canine_R
+    3300006: Z_Female:Mandibular_Central_Incisor_L
+    3300008: Z_Female:Mandibular_Central_Incisor_R
+    3300010: Z_Female:Mandibular_First_Molar_L
+    3300012: Z_Female:Mandibular_First_Molar_R
+    3300014: Z_Female:Mandibular_First_Premolar_L
+    3300016: Z_Female:Mandibular_First_Premolar_R
+    3300018: Z_Female:Mandibular_Lateral_Incisor_L
+    3300020: Z_Female:Mandibular_Lateral_Incisor_R
+    3300022: Z_Female:Mandibular_Second_Molar_L
+    3300024: Z_Female:Mandibular_Second_Molar_R
+    3300026: Z_Female:Mandibular_Second_Premolar_L
+    3300028: Z_Female:Mandibular_Second_Premolar_R
+    3300030: Z_Female:Mandibular_Third_Molar_L
+    3300032: Z_Female:Mandibular_Third_Molar_R
+    3300034: Z_Female:Maxillary_Canine_L
+    3300036: Z_Female:Maxillary_Canine_R
+    3300038: Z_Female:Maxillary_Central_Incisor_L
+    3300040: Z_Female:Maxillary_Central_Incisor_R
+    3300042: Z_Female:Maxillary_First_Molar_L
+    3300044: Z_Female:Maxillary_First_Molar_R
+    3300046: Z_Female:Maxillary_First_Premolar_L
+    3300048: Z_Female:Maxillary_First_Premolar_R
+    3300050: Z_Female:Maxillary_Lateral_Incisor_L
+    3300052: Z_Female:Maxillary_Lateral_Incisor_R
+    3300054: Z_Female:Maxillary_Second_Molar_L
+    3300056: Z_Female:Maxillary_Second_Molar_R
+    3300058: Z_Female:Maxillary_Second_Premolar_L
+    3300060: Z_Female:Maxillary_Second_Premolar_R
+    3300062: Z_Female:Maxillary_Third_Molar_L
+    3300064: Z_Female:Maxillary_Third_Molar_R
+    3300066: Z_Female:polySurface1518
+    3300068: Z_Female:Third_Lumbar_Vertebra
+    4300000: Z_Female:Third_Lumbar_Vertebra
+    4300002: Z_Female:Mandibular_Central_Incisor_R
+    4300004: Z_Female:Mandibular_Lateral_Incisor_R
+    4300006: Z_Female:Mandibular_Canine_R
+    4300008: Z_Female:Mandibular_First_Premolar_R
+    4300010: Z_Female:Mandibular_Second_Premolar_R
+    4300012: Z_Female:Mandibular_First_Molar_R
+    4300014: Z_Female:Mandibular_Second_Molar_R
+    4300016: Z_Female:Mandibular_Third_Molar_R
+    4300018: Z_Female:Mandibular_Central_Incisor_L
+    4300020: Z_Female:Mandibular_Lateral_Incisor_L
+    4300022: Z_Female:Mandibular_Canine_L
+    4300024: Z_Female:Mandibular_First_Premolar_L
+    4300026: Z_Female:Mandibular_Second_Premolar_L
+    4300028: Z_Female:Mandibular_First_Molar_L
+    4300030: Z_Female:Mandibular_Second_Molar_L
+    4300032: Z_Female:Mandibular_Third_Molar_L
+    4300034: Z_Female:Maxillary_Third_Molar_L
+    4300036: Z_Female:Maxillary_Second_Molar_L
+    4300038: Z_Female:Maxillary_First_Molar_L
+    4300040: Z_Female:Maxillary_Second_Premolar_L
+    4300042: Z_Female:Maxillary_First_Premolar_L
+    4300044: Z_Female:Maxillary_Canine_L
+    4300046: Z_Female:Maxillary_Lateral_Incisor_L
+    4300048: Z_Female:Maxillary_Third_Molar_R
+    4300050: Z_Female:Maxillary_Second_Molar_R
+    4300052: Z_Female:Maxillary_First_Molar_R
+    4300054: Z_Female:Maxillary_Second_Premolar_R
+    4300056: Z_Female:Maxillary_First_Premolar_R
+    4300058: Z_Female:Maxillary_Canine_R
+    4300060: Z_Female:Maxillary_Lateral_Incisor_R
+    4300062: Z_Female:Maxillary_Central_Incisor_R
+    4300064: Z_Female:Maxillary_Central_Incisor_L
+    4300066: Z_Female:Female_Skeletal_Mandible
+    4300068: Z_Female:polySurface1518
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

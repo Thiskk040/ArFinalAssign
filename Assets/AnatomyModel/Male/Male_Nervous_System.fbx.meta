@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 91733f78230b844d2a3278667a5263d7
+timeCreated: 1524656383
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Female_Nervous_Amygdala
+    100002: Female_Nervous_Cerebrum
+    100004: Left_Cerebellum
+    100006: Left_Frontal_Lobe
+    100008: Left_Occipital_Lobe
+    100010: Left_Parrietal_Lobe
+    100012: Left_Temporal_Lobe
+    100014: //RootNode
+    100016: Medulla
+    100018: Nervous
+    100020: polySurface2184
+    100022: Pons
+    100024: Right_Cerebellum
+    100026: Right_Frontal_Lobe
+    100028: Right_Occipital_Lobe
+    100030: Right_Parrietal_Lobe
+    100032: Right_Temporal_Lobe
+    100034: Spinal_Cord
+    400000: Female_Nervous_Amygdala
+    400002: Female_Nervous_Cerebrum
+    400004: Left_Cerebellum
+    400006: Left_Frontal_Lobe
+    400008: Left_Occipital_Lobe
+    400010: Left_Parrietal_Lobe
+    400012: Left_Temporal_Lobe
+    400014: //RootNode
+    400016: Medulla
+    400018: Nervous
+    400020: polySurface2184
+    400022: Pons
+    400024: Right_Cerebellum
+    400026: Right_Frontal_Lobe
+    400028: Right_Occipital_Lobe
+    400030: Right_Parrietal_Lobe
+    400032: Right_Temporal_Lobe
+    400034: Spinal_Cord
+    2100000: lambert27
+    2100002: lambert26
+    2100004: lambert25
+    2100006: lambert24
+    2100008: lambert30
+    2100010: Default_Material
+    2100012: lambert28
+    2100014: lambert29
+    2300000: Female_Nervous_Amygdala
+    2300002: Female_Nervous_Cerebrum
+    2300004: Left_Cerebellum
+    2300006: Left_Frontal_Lobe
+    2300008: Left_Occipital_Lobe
+    2300010: Left_Parrietal_Lobe
+    2300012: Left_Temporal_Lobe
+    2300014: Medulla
+    2300016: Nervous
+    2300018: polySurface2184
+    2300020: Pons
+    2300022: Right_Cerebellum
+    2300024: Right_Frontal_Lobe
+    2300026: Right_Occipital_Lobe
+    2300028: Right_Parrietal_Lobe
+    2300030: Right_Temporal_Lobe
+    2300032: Spinal_Cord
+    3300000: Female_Nervous_Amygdala
+    3300002: Female_Nervous_Cerebrum
+    3300004: Left_Cerebellum
+    3300006: Left_Frontal_Lobe
+    3300008: Left_Occipital_Lobe
+    3300010: Left_Parrietal_Lobe
+    3300012: Left_Temporal_Lobe
+    3300014: Medulla
+    3300016: Nervous
+    3300018: polySurface2184
+    3300020: Pons
+    3300022: Right_Cerebellum
+    3300024: Right_Frontal_Lobe
+    3300026: Right_Occipital_Lobe
+    3300028: Right_Parrietal_Lobe
+    3300030: Right_Temporal_Lobe
+    3300032: Spinal_Cord
+    4300000: Right_Temporal_Lobe
+    4300002: Left_Temporal_Lobe
+    4300004: Left_Occipital_Lobe
+    4300006: Right_Occipital_Lobe
+    4300008: Right_Parrietal_Lobe
+    4300010: Left_Parrietal_Lobe
+    4300012: Left_Frontal_Lobe
+    4300014: Right_Frontal_Lobe
+    4300016: Right_Cerebellum
+    4300018: Left_Cerebellum
+    4300020: Female_Nervous_Amygdala
+    4300022: Female_Nervous_Cerebrum
+    4300024: polySurface2184
+    4300026: Pons
+    4300028: Medulla
+    4300030: Spinal_Cord
+    4300032: Nervous
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

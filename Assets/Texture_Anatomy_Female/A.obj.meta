@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 8610fdbfce0c24e72a4a4a28a572974b
+timeCreated: 1524398799
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface2162_polySurface2163
+    100004: polySurface2162_polySurface2164
+    100006: polySurface2162_polySurface2165
+    100008: polySurface2162_polySurface2166
+    100010: polySurface2162_polySurface2167
+    100012: polySurface2162_polySurface2168
+    100014: polySurface2162_polySurface2169
+    100016: polySurface2162_polySurface2170
+    100018: polySurface2162_polySurface2171
+    100020: polySurface2162_polySurface2172
+    100022: polySurface2162_polySurface2173
+    100024: polySurface2162_polySurface2174
+    100026: polySurface2162_polySurface2175
+    100028: polySurface2162_polySurface2176
+    100030: polySurface2162_polySurface2177
+    100032: polySurface2162_polySurface2178
+    100034: polySurface2179_polySurface2162
+    400000: //RootNode
+    400002: polySurface2162_polySurface2163
+    400004: polySurface2162_polySurface2164
+    400006: polySurface2162_polySurface2165
+    400008: polySurface2162_polySurface2166
+    400010: polySurface2162_polySurface2167
+    400012: polySurface2162_polySurface2168
+    400014: polySurface2162_polySurface2169
+    400016: polySurface2162_polySurface2170
+    400018: polySurface2162_polySurface2171
+    400020: polySurface2162_polySurface2172
+    400022: polySurface2162_polySurface2173
+    400024: polySurface2162_polySurface2174
+    400026: polySurface2162_polySurface2175
+    400028: polySurface2162_polySurface2176
+    400030: polySurface2162_polySurface2177
+    400032: polySurface2162_polySurface2178
+    400034: polySurface2179_polySurface2162
+    2100000: phong1SG
+    2300000: polySurface2162_polySurface2163
+    2300002: polySurface2162_polySurface2164
+    2300004: polySurface2162_polySurface2165
+    2300006: polySurface2162_polySurface2166
+    2300008: polySurface2162_polySurface2167
+    2300010: polySurface2162_polySurface2168
+    2300012: polySurface2162_polySurface2169
+    2300014: polySurface2162_polySurface2170
+    2300016: polySurface2162_polySurface2171
+    2300018: polySurface2162_polySurface2172
+    2300020: polySurface2162_polySurface2173
+    2300022: polySurface2162_polySurface2174
+    2300024: polySurface2162_polySurface2175
+    2300026: polySurface2162_polySurface2176
+    2300028: polySurface2162_polySurface2177
+    2300030: polySurface2162_polySurface2178
+    2300032: polySurface2179_polySurface2162
+    3300000: polySurface2162_polySurface2163
+    3300002: polySurface2162_polySurface2164
+    3300004: polySurface2162_polySurface2165
+    3300006: polySurface2162_polySurface2166
+    3300008: polySurface2162_polySurface2167
+    3300010: polySurface2162_polySurface2168
+    3300012: polySurface2162_polySurface2169
+    3300014: polySurface2162_polySurface2170
+    3300016: polySurface2162_polySurface2171
+    3300018: polySurface2162_polySurface2172
+    3300020: polySurface2162_polySurface2173
+    3300022: polySurface2162_polySurface2174
+    3300024: polySurface2162_polySurface2175
+    3300026: polySurface2162_polySurface2176
+    3300028: polySurface2162_polySurface2177
+    3300030: polySurface2162_polySurface2178
+    3300032: polySurface2179_polySurface2162
+    4300000: polySurface2162_polySurface2163
+    4300002: polySurface2162_polySurface2164
+    4300004: polySurface2162_polySurface2165
+    4300006: polySurface2162_polySurface2166
+    4300008: polySurface2162_polySurface2167
+    4300010: polySurface2162_polySurface2168
+    4300012: polySurface2162_polySurface2169
+    4300014: polySurface2162_polySurface2170
+    4300016: polySurface2162_polySurface2171
+    4300018: polySurface2162_polySurface2172
+    4300020: polySurface2162_polySurface2173
+    4300022: polySurface2162_polySurface2174
+    4300024: polySurface2162_polySurface2175
+    4300026: polySurface2162_polySurface2176
+    4300028: polySurface2162_polySurface2177
+    4300030: polySurface2162_polySurface2178
+    4300032: polySurface2179_polySurface2162
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

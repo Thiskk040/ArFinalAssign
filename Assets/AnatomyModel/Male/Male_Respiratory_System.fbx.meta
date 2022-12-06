@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 92677a0992fbe4c1cae4cf07e7505ee1
+timeCreated: 1524638183
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body_of_Hyoid_Bone
+    100004: Cardiac_Notch
+    100006: Carina
+    100008: Central_Tendon_of_Diaphragm
+    100010: Cricoid_Cartillage
+    100012: Diaphragm
+    100014: Diaphragm 1
+    100016: Epiglotis
+    100018: Inferior_Lobe
+    100020: Inferior_Lobe 1
+    100022: Inferior_Lobe_Anterior_Basal
+    100024: Inferior_Lobe_Anterior_Basal_Anteromedial_Basal
+    100026: Inferior_Lobe_Lateral_Basal
+    100028: Inferior_Lobe_Lateral_Basal 1
+    100030: Inferior_Lobe_Medial_Baasal
+    100032: Inferior_Lobe_Medial_Basal
+    100034: Inferior_Lobe_Medial_Basal_Anteromedial_Basal
+    100036: Inferior_Lobe_Posterior_Basal
+    100038: Inferior_Lobe_Posterior_Basal 1
+    100040: Inferior_Lobe_Superior
+    100042: Larynx
+    100044: Left_Apex
+    100046: Left_Arytenoid_Cartilage
+    100048: Left_Corniculate_Cartilage
+    100050: Left_Cuneiform_Cartilage
+    100052: Left_Lungs
+    100054: Left_Main_Bronchus
+    100056: Left_Main_Bronchus_Primary
+    100058: Left_Nasal
+    100060: Lingula
+    100062: Median_Cricothyroid_Ligament
+    100064: Middle_Lobe
+    100066: Middle_Lobe_Lateral
+    100068: Middle_Lobe_Medial
+    100070: Nasal
+    100072: Oropharynx
+    100074: Pharynx
+    100076: Right_Apex
+    100078: Right_Arytenoid_Cartilage
+    100080: Right_Corniculate_Cartilage
+    100082: Right_Cuneiform_Cartilage
+    100084: Right_Lungs
+    100086: Right_Main_Bronchus
+    100088: Right_Main_Bronchus_Primary
+    100090: Right_Nasal
+    100092: Superior_Lobe
+    100094: Superior_Lobe 1
+    100096: Superior_Lobe 2
+    100098: Superior_Lobe 3
+    100100: Superior_Lobe_Anterior
+    100102: Superior_Lobe_Apical
+    100104: Superior_Lobe_Apical_Apicoposterior
+    100106: Superior_Lobe_Inferior_Iingular
+    100108: Superior_Lobe_Posterior
+    100110: Superior_Lobe_Posterior_Apicoposterior
+    100112: Superior_Lobe_Superior_Iingular
+    100114: Thyrohyoid_Membrane
+    100116: Thyroid_Cartillage
+    100118: Trachea
+    100120: Trachea 1
+    100122: Vocal_Cord
+    400000: //RootNode
+    400002: Body_of_Hyoid_Bone
+    400004: Cardiac_Notch
+    400006: Carina
+    400008: Central_Tendon_of_Diaphragm
+    400010: Cricoid_Cartillage
+    400012: Diaphragm
+    400014: Diaphragm 1
+    400016: Epiglotis
+    400018: Inferior_Lobe
+    400020: Inferior_Lobe 1
+    400022: Inferior_Lobe_Anterior_Basal
+    400024: Inferior_Lobe_Anterior_Basal_Anteromedial_Basal
+    400026: Inferior_Lobe_Lateral_Basal
+    400028: Inferior_Lobe_Lateral_Basal 1
+    400030: Inferior_Lobe_Medial_Baasal
+    400032: Inferior_Lobe_Medial_Basal
+    400034: Inferior_Lobe_Medial_Basal_Anteromedial_Basal
+    400036: Inferior_Lobe_Posterior_Basal
+    400038: Inferior_Lobe_Posterior_Basal 1
+    400040: Inferior_Lobe_Superior
+    400042: Larynx
+    400044: Left_Apex
+    400046: Left_Arytenoid_Cartilage
+    400048: Left_Corniculate_Cartilage
+    400050: Left_Cuneiform_Cartilage
+    400052: Left_Lungs
+    400054: Left_Main_Bronchus
+    400056: Left_Main_Bronchus_Primary
+    400058: Left_Nasal
+    400060: Lingula
+    400062: Median_Cricothyroid_Ligament
+    400064: Middle_Lobe
+    400066: Middle_Lobe_Lateral
+    400068: Middle_Lobe_Medial
+    400070: Nasal
+    400072: Oropharynx
+    400074: Pharynx
+    400076: Right_Apex
+    400078: Right_Arytenoid_Cartilage
+    400080: Right_Corniculate_Cartilage
+    400082: Right_Cuneiform_Cartilage
+    400084: Right_Lungs
+    400086: Right_Main_Bronchus
+    400088: Right_Main_Bronchus_Primary
+    400090: Right_Nasal
+    400092: Superior_Lobe
+    400094: Superior_Lobe 1
+    400096: Superior_Lobe 2
+    400098: Superior_Lobe 3
+    400100: Superior_Lobe_Anterior
+    400102: Superior_Lobe_Apical
+    400104: Superior_Lobe_Apical_Apicoposterior
+    400106: Superior_Lobe_Inferior_Iingular
+    400108: Superior_Lobe_Posterior
+    400110: Superior_Lobe_Posterior_Apicoposterior
+    400112: Superior_Lobe_Superior_Iingular
+    400114: Thyrohyoid_Membrane
+    400116: Thyroid_Cartillage
+    400118: Trachea
+    400120: Trachea 1
+    400122: Vocal_Cord
+    2100000: A_Digestive_System
+    2100002: A_Respiratory_System
+    2300000: Body_of_Hyoid_Bone
+    2300002: Cardiac_Notch
+    2300004: Carina
+    2300006: Central_Tendon_of_Diaphragm
+    2300008: Cricoid_Cartillage
+    2300010: Diaphragm 1
+    2300012: Epiglotis
+    2300014: Inferior_Lobe
+    2300016: Inferior_Lobe 1
+    2300018: Inferior_Lobe_Anterior_Basal
+    2300020: Inferior_Lobe_Anterior_Basal_Anteromedial_Basal
+    2300022: Inferior_Lobe_Lateral_Basal
+    2300024: Inferior_Lobe_Lateral_Basal 1
+    2300026: Inferior_Lobe_Medial_Baasal
+    2300028: Inferior_Lobe_Medial_Basal
+    2300030: Inferior_Lobe_Medial_Basal_Anteromedial_Basal
+    2300032: Inferior_Lobe_Posterior_Basal
+    2300034: Inferior_Lobe_Posterior_Basal 1
+    2300036: Inferior_Lobe_Superior
+    2300038: Left_Apex
+    2300040: Left_Arytenoid_Cartilage
+    2300042: Left_Corniculate_Cartilage
+    2300044: Left_Cuneiform_Cartilage
+    2300046: Left_Main_Bronchus
+    2300048: Left_Nasal
+    2300050: Lingula
+    2300052: Median_Cricothyroid_Ligament
+    2300054: Middle_Lobe
+    2300056: Middle_Lobe_Lateral
+    2300058: Middle_Lobe_Medial
+    2300060: Oropharynx
+    2300062: Pharynx
+    2300064: Right_Apex
+    2300066: Right_Arytenoid_Cartilage
+    2300068: Right_Corniculate_Cartilage
+    2300070: Right_Cuneiform_Cartilage
+    2300072: Right_Main_Bronchus
+    2300074: Right_Nasal
+    2300076: Superior_Lobe 1
+    2300078: Superior_Lobe 2
+    2300080: Superior_Lobe 3
+    2300082: Superior_Lobe_Anterior
+    2300084: Superior_Lobe_Apical
+    2300086: Superior_Lobe_Apical_Apicoposterior
+    2300088: Superior_Lobe_Inferior_Iingular
+    2300090: Superior_Lobe_Posterior
+    2300092: Superior_Lobe_Posterior_Apicoposterior
+    2300094: Superior_Lobe_Superior_Iingular
+    2300096: Thyrohyoid_Membrane
+    2300098: Thyroid_Cartillage
+    2300100: Trachea 1
+    2300102: Vocal_Cord
+    3300000: Body_of_Hyoid_Bone
+    3300002: Cardiac_Notch
+    3300004: Carina
+    3300006: Central_Tendon_of_Diaphragm
+    3300008: Cricoid_Cartillage
+    3300010: Diaphragm 1
+    3300012: Epiglotis
+    3300014: Inferior_Lobe
+    3300016: Inferior_Lobe 1
+    3300018: Inferior_Lobe_Anterior_Basal
+    3300020: Inferior_Lobe_Anterior_Basal_Anteromedial_Basal
+    3300022: Inferior_Lobe_Lateral_Basal
+    3300024: Inferior_Lobe_Lateral_Basal 1
+    3300026: Inferior_Lobe_Medial_Baasal
+    3300028: Inferior_Lobe_Medial_Basal
+    3300030: Inferior_Lobe_Medial_Basal_Anteromedial_Basal
+    3300032: Inferior_Lobe_Posterior_Basal
+    3300034: Inferior_Lobe_Posterior_Basal 1
+    3300036: Inferior_Lobe_Superior
+    3300038: Left_Apex
+    3300040: Left_Arytenoid_Cartilage
+    3300042: Left_Corniculate_Cartilage
+    3300044: Left_Cuneiform_Cartilage
+    3300046: Left_Main_Bronchus
+    3300048: Left_Nasal
+    3300050: Lingula
+    3300052: Median_Cricothyroid_Ligament
+    3300054: Middle_Lobe
+    3300056: Middle_Lobe_Lateral
+    3300058: Middle_Lobe_Medial
+    3300060: Oropharynx
+    3300062: Pharynx
+    3300064: Right_Apex
+    3300066: Right_Arytenoid_Cartilage
+    3300068: Right_Corniculate_Cartilage
+    3300070: Right_Cuneiform_Cartilage
+    3300072: Right_Main_Bronchus
+    3300074: Right_Nasal
+    3300076: Superior_Lobe 1
+    3300078: Superior_Lobe 2
+    3300080: Superior_Lobe 3
+    3300082: Superior_Lobe_Anterior
+    3300084: Superior_Lobe_Apical
+    3300086: Superior_Lobe_Apical_Apicoposterior
+    3300088: Superior_Lobe_Inferior_Iingular
+    3300090: Superior_Lobe_Posterior
+    3300092: Superior_Lobe_Posterior_Apicoposterior
+    3300094: Superior_Lobe_Superior_Iingular
+    3300096: Thyrohyoid_Membrane
+    3300098: Thyroid_Cartillage
+    3300100: Trachea 1
+    3300102: Vocal_Cord
+    4300000: Left_Nasal
+    4300002: Right_Nasal
+    4300004: Oropharynx
+    4300006: Pharynx
+    4300008: Body_of_Hyoid_Bone
+    4300010: Thyrohyoid_Membrane
+    4300012: Thyroid_Cartillage
+    4300014: Median_Cricothyroid_Ligament
+    4300016: Cricoid_Cartillage
+    4300018: Epiglotis
+    4300020: Left_Cuneiform_Cartilage
+    4300022: Left_Corniculate_Cartilage
+    4300024: Left_Apex
+    4300026: Left_Arytenoid_Cartilage
+    4300028: Right_Cuneiform_Cartilage
+    4300030: Right_Corniculate_Cartilage
+    4300032: Right_Apex
+    4300034: Right_Arytenoid_Cartilage
+    4300036: Vocal_Cord
+    4300038: Trachea
+    4300040: Carina
+    4300042: Superior_Lobe
+    4300044: Cardiac_Notch
+    4300046: Lingula
+    4300048: Inferior_Lobe
+    4300050: Superior_Lobe
+    4300052: Middle_Lobe
+    4300054: Inferior_Lobe
+    4300056: Left_Main_Bronchus
+    4300058: Superior_Lobe
+    4300060: Superior_Lobe_Apical_Apicoposterior
+    4300062: Superior_Lobe_Posterior_Apicoposterior
+    4300064: Superior_Lobe_Superior_Iingular
+    4300066: Superior_Lobe_Inferior_Iingular
+    4300068: Inferior_Lobe_Superior
+    4300070: Inferior_Lobe_Anterior_Basal_Anteromedial_Basal
+    4300072: Inferior_Lobe_Medial_Basal_Anteromedial_Basal
+    4300074: Inferior_Lobe_Posterior_Basal
+    4300076: Inferior_Lobe_Lateral_Basal
+    4300078: Right_Main_Bronchus
+    4300080: Superior_Lobe_Posterior
+    4300082: Superior_Lobe_Apical
+    4300084: Superior_Lobe_Anterior
+    4300086: Middle_Lobe_Lateral
+    4300088: Middle_Lobe_Medial
+    4300090: Inferior_Lobe_Medial_Basal
+    4300092: Inferior_Lobe_Anterior_Basal
+    4300094: Inferior_Lobe_Medial_Baasal
+    4300096: Inferior_Lobe_Posterior_Basal
+    4300098: Inferior_Lobe_Lateral_Basal
+    4300100: Diaphragm
+    4300102: Central_Tendon_of_Diaphragm
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
